@@ -3,10 +3,11 @@
   <groupId>com.android.future</groupId>
   <artifactId>usb</artifactId>
   <versioning>
-    <release>18_r3</release>
+    <release>19_r2</release>
     <versions>
       <version>18_r3</version>
+      <version>19_r2</version>
     </versions>
-    <lastUpdated>20131024190841</lastUpdated>
+    <lastUpdated>20140115014046</lastUpdated>
   </versioning>
 </metadata>
